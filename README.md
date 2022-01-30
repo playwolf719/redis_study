@@ -1,1 +1,5 @@
-# redis_study
+
+# redis
+
+## 数据结构
+![image](F7815C6BDA71412DAED97C62735551EA)
